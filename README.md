@@ -25,3 +25,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunjidanowshin&show_icons=true&locale=en" alt="sunjidanowshin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunjidanowshin&" alt="sunjidanowshin" /></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunjidanowshin/sunjidanowshin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunjidanowshin/sunjidanowshin/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/sunjidanowshin/sunjidanowshin/output/github-snake.svg" />
+</picture>
+
+
